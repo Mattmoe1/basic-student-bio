@@ -1,0 +1,31 @@
+header {
+    background-color: rgb(113, 113, 113);
+    color: darkred;
+}
+
+h1 {
+    font-family: fantasy;
+    font-weight: bolder;
+}
+
+h2 {
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+p {
+    font-family: cursive;
+    font-weight: lighter; 
+}
+
+img {
+    border-style: solid;
+    border-width: 1em;
+    border-color: tan;
+    border-radius: 25px;
+    margin-bottom: 50px;
+}
+
+body {
+    background-color: rgb(161, 218, 218);
+}
